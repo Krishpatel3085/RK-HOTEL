@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.home{
+    width: 100%;
+    height: auto;
+    background: url(./img/bg-01.jpg);
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: hue;
+    background-color: rgba(0, 0, 0, 0.277);
+    background-attachment: fixed;
+}
+#krish{
+    color: white;
+}
+#krish:hover{
+    color: #8e85e6;
+}
+#patel{
+    width: 200px;
+    background-color: black;
+    color:white;
+}
+#amisha{
+    color: white;
+}
+#amisha:hover{
+    width: 90%;
+    margin-left: 10px;
+    border-radius: 10%;
+    background-color: rgb(207, 222, 249);
+    color: #8e85e6;
+}
+#xyz{
+    background: black;
+}
+#xyz:hover{
+    background: #8e85e6;
+}
+#btn1{
+    background: #8e85e61a;
+    color: #8e85e6;
+}
+#btn1:hover{
+    background: #8e85e6;
+    color: white;
+}
+.box1{
+    background: #2a2c31;
+}
+#btnh{
+    width: 150px;
+    height: 50px;
+    background-color: black;
+}
+#btnh:hover{
+    background-color: #2a2c31;
+}
+#text{
+    font-family: poppis, sans-serif;
+    font-size: 60px;
+}
+
+
+.card-img-top {
+    width: 100%;
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+}
+.box{
+    width: 700px;
+    height: 350px;
+    border-radius: 20px;
+    background: url(./img/island.svg);
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-color: #2a2c31;
+}
+.box h1{
+    font-family: poppins, sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+    margin-top: 40px;
+    margin-right: 20px;
+}
+.box p{
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.com{
+    background-color: #2a2c31;
+}
+.run i{
+    color: #8e85e6;
+}
+.run2 i{
+    color: #fd7e14;
+}
+.run3 i{
+    color: #d6293e;
+}
+#lap:hover{
+    transition: all .2s;
+    top: -8px;
+}
